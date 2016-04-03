@@ -1,12 +1,14 @@
 # BATlauch
 
-САМОЕ ВАЖНО!!! в пути где лежит мой лаунчер не должно быть ПРОБЕЛОВ и русских БУКВ!!! ппп
+САМОЕ ВАЖНО!!! в пути где лежит мой лаунчер не должно быть ПРОБЕЛОВ и русских БУКВ!!!
+
 не правильно:
 
 g:\Minecraft LAUNCHER\.minecraft
 g:\игра\MinecraftLAUNCHER\.minecraft
 
 правильно:
+
 g:\MinecraftLAUNCHER\.minecraft
 g:\igraMInecraft\sborka\Minecraft____LAUNCHER\.minecraft
 
