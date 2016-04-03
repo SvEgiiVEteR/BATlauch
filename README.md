@@ -1,5 +1,5 @@
 # BATlauch
-1
+
 САМОЕ ВАЖНО!!! в пути где лежит мой лаунчер не должно быть ПРОБЕЛОВ и русских БУКВ!!!
 не правильно:
 g:\Minecraft LAUNCHER\.minecraft
@@ -11,8 +11,11 @@ g:\igraMInecraft\sborka\Minecraft____LAUNCHER\.minecraft
 g:\igecraft\sb\Min\.minecraft
 пока опишу что делать:
 1 разоархивируем архив (например g:\MinecraftLAUNCHER\ )
+
 2 заходим в папку со сборкой пета Pet9948_19\instances\Big_Miracle_Pack\minecraft
+
 3 копируем все содержимоей папки(Pet9948_19\instances\Big_Miracle_Pack\minecraft) кроме assets в MinecraftLAUNCHER\.minecraft\
+
 4a для запуска игры используем MinecraftLAUNCHER\MinecraftPortableCMD.bat
 4б так же можно использовать MinecraftPortableEXE.bat или MinecraftPortableJAR.bat это официальный лаунчер игры. могут использовать имеющие лицензию, НО и пиратки тоже при не которых извинениях в профеле лаунчера))
 сам лично использую 4а вариант а 4б что бы просто скачать майнкрафт. 4а более гибок и настраиваемый(об этом напишу потом в этом же посте если понадобиться)
