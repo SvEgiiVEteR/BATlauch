@@ -6,12 +6,17 @@
 
 g:\Minecraft LAUNCHER\.minecraft
 g:\игра\MinecraftLAUNCHER\.minecraft
+
 правильно:
 g:\MinecraftLAUNCHER\.minecraft
 g:\igraMInecraft\sborka\Minecraft____LAUNCHER\.minecraft
+
 расположение игры может быть любое
+
 g:\igecraft\sb\Min\.minecraft
+
 пока опишу что делать:
+
 1 разоархивируем архив (например g:\MinecraftLAUNCHER\ )
 
 2 заходим в папку со сборкой пета Pet9948_19\instances\Big_Miracle_Pack\minecraft
