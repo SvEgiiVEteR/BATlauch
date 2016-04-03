@@ -5,8 +5,8 @@
 не правильно:
 g:\Minecraft LAUNCHER\.minecraft
 g:\игра\MinecraftLAUNCHER\.minecraft
-правильно:
 
+правильно:
 g:\MinecraftLAUNCHER\.minecraft
 g:\igraMInecraft\sborka\Minecraft____LAUNCHER\.minecraft
 расположение игры может быть любое
